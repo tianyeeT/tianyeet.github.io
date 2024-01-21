@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: '诶诶诶瑞克',
+			title: '诶诶诶诶瑞克',
 			social: {
 				github: 'https://github.com/tianyeeT/blog',
 			},
